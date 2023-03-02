@@ -1,8 +1,5 @@
 "use strict";
-// //  const result = confirm("Будеш сьогодні дотку/чи сосати?")
 
-// // const answer = prompt("Ти гей?", "Так");
-// // console.log(answer);
 
 // // const answers = [];
 
